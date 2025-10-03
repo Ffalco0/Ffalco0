@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋 I'm Ffalco0
 
-<!--
-**Ffalco0/Ffalco0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently studying **Software Engineering**, aspiring to become a software developer.
 
-Here are some ideas to get you started:
+## 💻 What I’m Working On
+- Building backend projects (game backends & distributed systems)
+- Game development with **Unity** and **Godot**
+- Coding in **C#**, **C++**, and **C**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Journey
+Curiosity drives my learning! I love diving into new challenges, exploring different technologies, and experimenting with code. Every difficult situation is a chance to learn and grow.
+
+## ✨ Motto
+> **"Explore everything with curiosity and do not let your childish side disappear. Never let this spark disappear. Always put myself in every difficult situation in order to learn to swim through difficulties."**
+
+## 📚 Skills
+- Backend development
+- Game development (Unity, Godot)
+- Languages: C#, C++, C
+
+## 🌱 Looking Forward
+I’m actively learning, experimenting, and preparing to share my projects soon. Stay tuned!
+
+---
+
+*Feel free to connect or check back for updates as I share new projects and milestones!*
